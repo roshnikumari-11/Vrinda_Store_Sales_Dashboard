@@ -76,6 +76,7 @@ Welcome to the official data analysis repository for **Vrinda Stores Annual Repo
 
 ## 📁 Files in this Repository
 
+- `vrinda_store_analysis_xlsx` - Dataset
 - `Vrinda_Store_Sales_Dashboard_Screenshot.png` – Static dashboard snapshot  
 - `vrinda_dashboard.gif` – Animated dashboard preview  
 - `README.md` – This documentation
