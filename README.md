@@ -7,10 +7,10 @@ Welcome to the official data analysis repository for **Vrinda Stores Annual Repo
 
 ## 🧾 Full Dashboard Overview
 
-![Vrinda Store Dashboard](.Vrinda_Store_Sales_Dashboard_Screenshot%20.png)
+![Vrinda Store Dashboard](./Vrinda_Store_Sales_Dashboard_Screenshot%20.png)
 
 > 🎞️ Live Dashboard Preview  
-![Vrinda Store Dashboard GIF](.vrinda_dashboard.gif)
+![Vrinda Store Dashboard GIF](./vrinda_dashboard.gif)
 
 ---
 
