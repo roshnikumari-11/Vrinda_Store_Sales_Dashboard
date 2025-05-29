@@ -85,7 +85,6 @@ Welcome to the official data analysis repository for **Vrinda Stores Annual Repo
 ## 🛠️ Built Using
 
 - Microsoft Excel (Pivot Charts, Slicers)
-- Canva (Designs)
 - GitHub (Project Hosting)
 
 ---
